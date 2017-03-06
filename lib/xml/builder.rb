@@ -1,4 +1,4 @@
-# require "xml/builder/version"
+require "xml/builder/version"
 
 module Xml
   module Builder
